@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kevinkwee
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Flutter SDK
-- 💞️ I’m looking to collaborate on Flutter open-source projects.
+- 🌱 I’m currently working with Python.
 - 📫 You can reach me via email at michaelkevin47@gmail.com
 
 <!---
